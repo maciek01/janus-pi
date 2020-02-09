@@ -1,0 +1,1 @@
+automake dh-autoreconf gengetopt libcollection-dev libconfig-dev libcurl4-openssl-dev libglib2.0-dev libini-config-dev libjansson-dev liblua5.3-dev libmicrohttpd-dev libnice-dev libogg-dev libopus-dev libsofia-sip-ua-dev libsrtp-dev libsrtp2-1  libsrtp2-dev libssl-dev libtool pkg-config
